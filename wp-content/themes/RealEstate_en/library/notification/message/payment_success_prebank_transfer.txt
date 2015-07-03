@@ -1,0 +1,9 @@
+<p>Thank you, your request received successully.</p>
+<p>To publish the property Please transfer amount of <u>[#$order_amt#] </u> out bank with the following information :</p>
+<p>Bank Name : [#$bank_name#]</p>
+<p>Account Number : [#$account_number#]</p>
+<br>
+<p>Please include the following reference : [#$orderId#]</p>
+<p><a href="[#$submited_property_link#]" >View your submitted Property &raquo;</a>
+<br>
+<p>Thank you for visit at [#$store_name#].</p>

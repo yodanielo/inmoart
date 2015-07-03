@@ -1,0 +1,241 @@
+16th - July, 2010  (searching coding change)
+--------------------------------------------
+search.php
+
+15th - July, 2010  (twitter link problem on property)
+--------------------------------------------
+library/includes/agents.php
+library/functions/custom_functions.php
+
+
+13th - July, 2010  (comments on property)
+--------------------------------------------
+library/functions/admin_options.php
+library/includes/property_detail.php
+library/includes/registration.php (registration email blank problem solved)
+
+---------------
+library/includes/
+registration.php, admin_bulk_upload.php, admin_notification.php, admin_notification_edit.php, cancel.php, email_friend_frm.php, image_uploader.php,property_preview.php, return.php, send_inquiry_frm.php, single_page_checkout_insertuser.php, success.php, upload.php  
+----------------
+library/functions/custom_functions.php, 
+---------------
+Thumbnail.php
+
+
+
+
+10th - July, 2010  (property expiry proplem)
+--------------------------------------------
+library/functions/custom_functions.php
+
+3rd - July, 2010  (property expiry proplem)
+--------------------------------------------
+library/functions/auto_install_setting.php
+
+28th - June, 2010 
+--------------------------------------------
+library/includes/property_frm_with_reg.php -- property type=rent - edit problem - solved
+library/includes/property_detail.php -- email to friend - wrong property link - solved
+library/includes/popup_frms.php -- email to friend - wrong property link - solved
+
+
+22th - June, 2010 (wp-admin notification problem)
+--------------------------------------------
+library/includes/admin_notification.php
+library/includes/admin_notification_edit.php
+
+16th - June, 2010 (auto expire property)
+--------------------------------------------
+library/functions/auto_install_setting.php
+
+
+9th - June, 2010 (email format to UTF-8)
+--------------------------------------------
+library/functions/custom_functions.php
+page_contact.php
+library/includes/property_preview.php
+library/includes/upload.php
+library/includes/image_uploader.php
+
+
+7th - june, 2010 (google anlytics problem solved) 
+---------------------------------------------
+library/includes/popup_frms.php
+
+
+22th - May, 2010 (wp 3.0 changes - custom menu navigation - { header  widget },  Theme Compatibility   )
+---------------------------------------------
+header.php
+style.css
+skins - folder all css
+library/css/dropdownmenu.css
+
+library/functions/widget_functions.php
+library/functions/admin_style.css
+library/functions/admin_functions.php
+
+
+7th - may, 2010 
+---------------------------------------------
+library/includes/related_properties.php
+
+
+23th - april, 2010 
+---------------------------------------------
+author.php
+
+localization-> whole folder
+
+library/includes/
+property_detail.php
+image_uploader.php
+property_preview.php
+property_preview_buttons.php
+
+
+library/functions/
+custom_functions.php
+widgets_functions.php
+yost-breadrumbs.php
+
+
+
+22th - april, 2010 
+---------------------------------------------
+library/includes/thumbnail.php
+library/includes/upload.php
+library/includes/image_uploader.php
+library/js/handlers.js
+
+
+
+20th - april, 2010 (wp 3.0 changes)
+---------------------------------------------
+library/functions/admin_functions.php
+
+
+20th-april, 2010 (localization changes new updated en.po file)
+-------------------------------------------------
+localization/en.po
+
+
+19th-april, 2010 (email to friend and send Inquiry email problem -- solved)
+-------------------------------------------------
+library/js/email_frnd_validation.js
+library/js/inquiry_validation.js
+
+
+
+17th-april, 2010 (widget content not stable/stored at wp-admin->widgets)
+-------------------------------------------------
+///if you have any problem with widget, not able to store/add new one, please copy below all code and paste in index.php at very first line and run your site index page, on the next moment you must remove the added code from index.php otherwise your data will lost every time.  NoTE :- this code will remove your some widget data so please take your widget data backup any where so next time it will userful for you. thanks
+//-------------------------------------------------------------------------
+update_option('widget_widget_contact',array());
+update_option('widget_widget_featuredagent',array());
+update_option('widget_widget_subscribe',array());
+update_option('widget_widget_posts',array());
+update_option('widget_widget_loginwidget',array());
+update_option('widget_widget_about',array());
+update_option('widget_widget_tags',array());
+update_option('widget_widget_advt',array());
+update_option('widget_archives',array());
+update_option('widget_widget_finance_calculator',array());
+update_option('widget_links',array());
+update_option('widget_widget_about',array());
+update_option('widget_widget_blockquote',array());
+
+
+
+
+changes on 17th-april-2010
+--------------------------------
+library/includes/
+property_frm_with_reg.php
+edit_profile.php
+edit_profile.php
+image_uploader.php
+
+
+changes on 12th-april-2010
+--------------------------------
+library/functions/custom_functions.php
+
+changes on 9th-april-2010
+--------------------------------
+library/includes/admin_settings.php
+
+
+changes on 1st-april-2010
+--------------------------------
+library/includes/
+property_preview.php (while submit property - preview - image scroll previous and next button issue)
+property_frm_with_reg.php ( below bedrooms - error indication problem)
+
+
+changes on 1st-april-2010
+--------------------------------
+author.php
+
+changes on 30th-march-2010
+--------------------------------
+library/includes/send_inquiry_frm.php  - send inquiry - include phone number with Inquiry email. 
+
+
+changes on 29th-march-2010
+--------------------------------
+library/includes/
+login_frm.php -- magic quotes problem
+reg_frm.php -- magic quotes problem
+
+
+changes on 27th-march-2010
+--------------------------------
+library/functions/custom_functions.php -- 'ssl url' changes
+
+library/includes/
+property_frm_with_reg.php -- property edit and ssl url related
+single_page_checkout_insertuser.php  -- user insert - submit property - agent SEO url 
+paynow.php  -- user insert - submit property - agent SEO url 
+registration.php  -- user insert - agent SEO url
+edit_profile.php -- user edit - last name problem
+
+library/js/property_detail_validation.js  -- property detail page - "Schedule a Showing" issue - solved
+
+changes on 25th-march-2010
+--------------------------------
+library/includes/property_frm_with_reg.php  -- edit property 'Location' issue - solved
+library/includes/upload.php  -- 'submit property' image upload problem - solved
+library/includes/edit_profile.php  -- 'agent' photo upload problem - sloved 
+library/functions/custom_functions.php -- 'submit property' image thumb problem - solved
+
+changes on 24rd-march-2010
+--------------------------------
+post_sample_csv.csv
+
+library/includes/admin_bulk_upload.php  -- bulk upload issue
+library/includes/csvdl.php  -- bulk upload issue - csv download
+
+
+
+changes on 23rd-march-2010
+--------------------------------
+auto_install.php - dummy image issue - solved
+language.php - dummy image message changed - solved
+
+library/includes/
+latest_listing_home.php - home page no data displayed - solved
+property_preview.php - submit property issue  - solved
+registration.php - forgot password issue - solved
+login_frm.php - forgot password issue - solved
+admin_settings.php - SSL certificate url related
+property_frm_with_reg.php - SSL certificate url related
+property_preview_buttons.php - SSL certificate url related
+
+library/functions/custom_functions.php - SSL certificate related functions added
+
+
+
+
+Note:if there is any problem with image upload and all, please set the wp-content/uploads 
+ folder permission to 0777.

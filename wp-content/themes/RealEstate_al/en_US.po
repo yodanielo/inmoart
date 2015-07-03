@@ -1,0 +1,3330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RealEstate v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-07-28 13:14+0000\n"
+"Last-Translator: Johan11  3223 <miteshru@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: author-bk170910.php:227
+#: author-bk210910.php:227
+#: author.php:227
+#: language-bk180910.php:93
+#: language-bk210910.php:93
+#: language-bk270910.php:93
+#: language.php:96
+#@ default
+msgid "View More Details"
+msgstr ""
+
+#: comments-old.php:110
+#: comments-old.php:113
+#@ default
+msgid "*"
+msgstr ""
+
+#: comments.php:93
+#@ default
+msgid "Name *"
+msgstr ""
+
+#: comments.php:96
+#@ default
+msgid "Email *"
+msgstr ""
+
+#: comments.php:105
+#: language-bk180910.php:63
+#: language-bk210910.php:63
+#: language-bk270910.php:63
+#: language.php:63
+#: library/includes/admin_bulk_upload.php:137
+#: library/includes/admin_coupon.php:133
+#: library/includes/admin_notification_edit.php:202
+#: library/includes/admin_paymet_settings.php:115
+#: library/includes/admin_settings.php:275
+#@ default
+msgid "Submit"
+msgstr ""
+
+#: language-bk180910.php:3
+#: language-bk210910.php:3
+#: language-bk270910.php:3
+#: language.php:3
+#@ default
+msgid "Welcome"
+msgstr ""
+
+#: language-bk180910.php:4
+#: language-bk210910.php:4
+#: language-bk270910.php:4
+#: library/functions/yoast-breadcrumbs.php:21
+#: library/functions/yoast-breadcrumbs1.php:21
+#@ default
+msgid "Home"
+msgstr ""
+
+#: language-bk180910.php:5
+#: language-bk180910.php:138
+#: language-bk180910.php:140
+#: language-bk180910.php:141
+#: language-bk210910.php:5
+#: language-bk210910.php:138
+#: language-bk210910.php:140
+#: language-bk210910.php:141
+#: language-bk270910.php:5
+#: language-bk270910.php:138
+#: language-bk270910.php:140
+#: language-bk270910.php:141
+#: language.php:5
+#: language.php:141
+#: language.php:143
+#: language.php:144
+#@ default
+msgid "Sign In"
+msgstr ""
+
+#: language-bk180910.php:6
+#: language-bk210910.php:6
+#: language-bk270910.php:6
+#: language.php:6
+#@ default
+msgid "Sign Up"
+msgstr ""
+
+#: language-bk180910.php:7
+#: language-bk210910.php:7
+#: language-bk270910.php:7
+#: language.php:7
+#@ default
+msgid "Guest"
+msgstr ""
+
+#: language-bk180910.php:8
+#: language-bk180910.php:197
+#: language-bk180910.php:253
+#: language-bk210910.php:8
+#: language-bk210910.php:197
+#: language-bk210910.php:253
+#: language-bk270910.php:8
+#: language-bk270910.php:197
+#: language-bk270910.php:253
+#: language.php:200
+#: language.php:256
+#@ default
+msgid "Submit Property"
+msgstr ""
+
+#: language-bk180910.php:9
+#: language-bk210910.php:9
+#: language-bk270910.php:9
+#: language.php:9
+#@ default
+msgid "My Dashboard"
+msgstr ""
+
+#: language-bk180910.php:10
+#: language-bk210910.php:10
+#: language-bk270910.php:10
+#: language.php:10
+#@ default
+msgid "Logout"
+msgstr ""
+
+#: language-bk180910.php:11
+#: language-bk210910.php:11
+#: language-bk270910.php:11
+#: language.php:11
+#@ default
+msgid "Browse Properties"
+msgstr ""
+
+#: language-bk180910.php:12
+#: language-bk180910.php:324
+#: language-bk210910.php:12
+#: language-bk210910.php:325
+#: language-bk270910.php:12
+#: language-bk270910.php:325
+#: language.php:12
+#: language.php:328
+#@ default
+msgid "Agents"
+msgstr ""
+
+#: language-bk180910.php:15
+#: language-bk210910.php:15
+#: language-bk270910.php:15
+#: language.php:15
+#@ default
+msgid "Search Property"
+msgstr ""
+
+#: language-bk180910.php:16
+#: language-bk210910.php:16
+#: language-bk270910.php:16
+#: language.php:16
+#@ default
+msgid "Properties for"
+msgstr ""
+
+#: language-bk180910.php:17
+#: language-bk210910.php:17
+#: language-bk270910.php:17
+#@ default
+msgid "All"
+msgstr ""
+
+#: language-bk180910.php:18
+#: language-bk210910.php:18
+#: language-bk270910.php:18
+#: language.php:18
+#@ default
+msgid "Buy"
+msgstr ""
+
+#: language-bk180910.php:19
+#: language-bk180910.php:272
+#: language-bk210910.php:19
+#: language-bk210910.php:272
+#: language-bk270910.php:19
+#: language-bk270910.php:272
+#: language.php:19
+#: language.php:275
+#@ default
+msgid "Rent"
+msgstr ""
+
+#: language-bk180910.php:20
+#: language-bk180910.php:201
+#: language-bk210910.php:20
+#: language-bk210910.php:201
+#: language-bk270910.php:20
+#: language-bk270910.php:201
+#: language.php:20
+#: language.php:204
+#: library/includes/admin_settings.php:240
+#@ default
+msgid "Location"
+msgstr ""
+
+#: language-bk180910.php:21
+#: language-bk210910.php:21
+#: language-bk270910.php:21
+#: language.php:21
+#@ default
+msgid "All Locations"
+msgstr ""
+
+#: language-bk180910.php:22
+#: language-bk180910.php:53
+#: language-bk180910.php:264
+#: language-bk180910.php:309
+#: language-bk210910.php:22
+#: language-bk210910.php:53
+#: language-bk210910.php:310
+#: language-bk270910.php:22
+#: language-bk270910.php:53
+#: language-bk270910.php:310
+#: language.php:22
+#: language.php:53
+#: language.php:313
+#: library/includes/admin_settings.php:242
+#@ default
+msgid "Area"
+msgstr ""
+
+#: language-bk180910.php:23
+#: language-bk210910.php:23
+#: language-bk270910.php:23
+#: language.php:23
+#@ default
+msgid "All Area"
+msgstr ""
+
+#: language-bk180910.php:24
+#: language-bk180910.php:210
+#: language-bk210910.php:24
+#: language-bk210910.php:210
+#: language-bk270910.php:24
+#: language-bk270910.php:210
+#: language.php:24
+#: language.php:213
+#: library/includes/admin_settings.php:241
+#@ default
+msgid "Price Range"
+msgstr ""
+
+#: language-bk180910.php:25
+#: language-bk210910.php:25
+#: language-bk270910.php:25
+#: language.php:25
+#@ default
+msgid "All Price Range"
+msgstr ""
+
+#: language-bk180910.php:26
+#: language-bk210910.php:26
+#: language-bk270910.php:26
+#: language.php:26
+#@ default
+msgid "Keyword"
+msgstr ""
+
+#: language-bk180910.php:27
+#: language-bk180910.php:49
+#: language-bk180910.php:261
+#: language-bk210910.php:27
+#: language-bk210910.php:49
+#: language-bk210910.php:261
+#: language-bk270910.php:27
+#: language-bk270910.php:49
+#: language-bk270910.php:261
+#: language.php:27
+#: language.php:49
+#: language.php:264
+#@ default
+msgid "Bedrooms"
+msgstr ""
+
+#: language-bk180910.php:28
+#: language-bk210910.php:28
+#: language-bk270910.php:28
+#: language.php:28
+#@ default
+msgid "All Bedrooms"
+msgstr ""
+
+#: language-bk180910.php:29
+#: language-bk180910.php:207
+#: language-bk210910.php:29
+#: language-bk210910.php:207
+#: language-bk270910.php:29
+#: language-bk270910.php:207
+#: language.php:29
+#: language.php:210
+#@ default
+msgid "Bathroom"
+msgstr ""
+
+#: language-bk180910.php:30
+#: language-bk210910.php:30
+#: language-bk270910.php:30
+#: language.php:30
+#@ default
+msgid "All Bathroom"
+msgstr ""
+
+#: language-bk180910.php:31
+#: language-bk210910.php:31
+#: language-bk270910.php:31
+#: language.php:31
+#@ default
+msgid "Search Properties"
+msgstr ""
+
+#: language-bk180910.php:32
+#: language-bk210910.php:32
+#@ default
+msgid "Search by Property ID"
+msgstr ""
+
+#: language-bk180910.php:33
+#: language-bk180910.php:311
+#: language-bk210910.php:33
+#: language-bk210910.php:312
+#: language-bk270910.php:312
+#: language.php:315
+#@ default
+msgid "Property ID"
+msgstr ""
+
+#: language-bk180910.php:34
+#: language-bk180910.php:95
+#: language-bk210910.php:34
+#: language-bk210910.php:95
+#: language-bk270910.php:34
+#: language-bk270910.php:95
+#: language.php:98
+#@ default
+msgid "Search"
+msgstr ""
+
+#: language-bk180910.php:35
+#: language-bk210910.php:35
+#: language-bk270910.php:35
+#: language.php:35
+#@ default
+msgid "City, State or Zip Code"
+msgstr ""
+
+#: language-bk180910.php:36
+#: language-bk210910.php:36
+#: language-bk270910.php:36
+#: language.php:36
+#@ default
+msgid "#1223"
+msgstr ""
+
+#: language-bk180910.php:40
+#: language-bk180910.php:187
+#: language-bk210910.php:40
+#: language-bk210910.php:187
+#: language-bk270910.php:40
+#: language-bk270910.php:187
+#: language.php:40
+#: language.php:190
+#@ default
+msgid "Send to Friend"
+msgstr ""
+
+#: language-bk180910.php:41
+#: language-bk210910.php:41
+#: language-bk270910.php:41
+#: language.php:41
+#@ default
+msgid "Add to Favorite"
+msgstr ""
+
+#: language-bk180910.php:42
+#: language-bk210910.php:42
+#: language-bk270910.php:42
+#: language.php:42
+#@ default
+msgid "Print"
+msgstr ""
+
+#: language-bk180910.php:43
+#: language-bk210910.php:43
+#: language-bk270910.php:43
+#: language.php:43
+#@ default
+msgid "Share this:"
+msgstr ""
+
+#: language-bk180910.php:44
+#: language-bk210910.php:44
+#: language-bk270910.php:44
+#: language.php:44
+#@ default
+msgid "Home Information"
+msgstr ""
+
+#: language-bk180910.php:45
+#: language-bk180910.php:209
+#: language-bk210910.php:45
+#: language-bk210910.php:209
+#: language-bk270910.php:45
+#: language-bk270910.php:209
+#: language.php:45
+#: language.php:212
+#@ default
+msgid "Price"
+msgstr ""
+
+#: language-bk180910.php:46
+#: language-bk180910.php:202
+#: language-bk210910.php:46
+#: language-bk210910.php:202
+#: language-bk270910.php:46
+#: language-bk270910.php:202
+#: language.php:46
+#: language.php:205
+#@ default
+msgid "Address"
+msgstr ""
+
+#: language-bk180910.php:47
+#: language-bk180910.php:212
+#: language-bk210910.php:47
+#: language-bk210910.php:212
+#: language-bk270910.php:47
+#: language-bk270910.php:212
+#: library/functions/admin_dashboard.php:27
+#@ default
+msgid "Type"
+msgstr ""
+
+#: language-bk180910.php:48
+#: language-bk180910.php:128
+#: language-bk180910.php:203
+#: language-bk180910.php:276
+#: language-bk210910.php:48
+#: language-bk210910.php:128
+#: language-bk210910.php:277
+#: language-bk270910.php:48
+#: language-bk270910.php:128
+#: language.php:48
+#: language.php:131
+#@ default
+msgid "City"
+msgstr ""
+
+#: language-bk180910.php:50
+#: language-bk180910.php:129
+#: language-bk180910.php:204
+#: language-bk180910.php:277
+#: language-bk210910.php:50
+#: language-bk210910.php:129
+#: language-bk210910.php:278
+#: language-bk270910.php:50
+#: language-bk270910.php:278
+#: language.php:50
+#: language.php:281
+#@ default
+msgid "State"
+msgstr ""
+
+#: language-bk180910.php:51
+#: language-bk180910.php:263
+#: language-bk210910.php:51
+#: language-bk210910.php:263
+#: language-bk270910.php:51
+#: language-bk270910.php:263
+#: language.php:51
+#: language.php:266
+#@ default
+msgid "Bathrooms"
+msgstr ""
+
+#: language-bk180910.php:52
+#: language-bk210910.php:52
+#: language-bk270910.php:52
+#: language.php:52
+#@ default
+msgid "County"
+msgstr ""
+
+#: language-bk180910.php:54
+#: language-bk180910.php:206
+#: language-bk210910.php:54
+#: language-bk210910.php:206
+#: language-bk270910.php:54
+#: language-bk270910.php:206
+#: language.php:54
+#: language.php:209
+#: library/includes/admin_settings.php:246
+#@ default
+msgid "Zip Code"
+msgstr ""
+
+#: language-bk180910.php:55
+#: language-bk180910.php:215
+#: language-bk210910.php:55
+#: language-bk210910.php:215
+#: language-bk270910.php:55
+#: language-bk270910.php:215
+#: language.php:55
+#: language.php:218
+#@ default
+msgid "Additional Features"
+msgstr ""
+
+#: language-bk180910.php:56
+#: language-bk210910.php:56
+#: language-bk270910.php:56
+#: language.php:56
+#@ default
+msgid "Property Map"
+msgstr ""
+
+#: language-bk180910.php:57
+#: language-bk210910.php:57
+#: language-bk270910.php:57
+#: language.php:57
+#@ default
+msgid "Inquiry this Property"
+msgstr ""
+
+#: language-bk180910.php:58
+#: language-bk210910.php:58
+#: language-bk270910.php:58
+#: language.php:58
+#@ default
+msgid "Have A Question?"
+msgstr ""
+
+#: language-bk180910.php:59
+#: language-bk180910.php:123
+#: language-bk210910.php:59
+#: language-bk210910.php:123
+#: language-bk270910.php:59
+#: language-bk270910.php:123
+#: language.php:59
+#: language.php:126
+#@ default
+msgid "First Name"
+msgstr ""
+
+#: language-bk180910.php:60
+#: language-bk180910.php:124
+#: language-bk210910.php:60
+#: language-bk210910.php:124
+#: language-bk270910.php:60
+#: language-bk270910.php:124
+#: language.php:60
+#: language.php:127
+#@ default
+msgid "Last Name"
+msgstr ""
+
+#: language-bk180910.php:61
+#: language-bk180910.php:279
+#: language-bk210910.php:61
+#: language-bk210910.php:280
+#: language-bk270910.php:61
+#: language-bk270910.php:280
+#: language.php:61
+#: language.php:283
+#@ default
+msgid "Email"
+msgstr ""
+
+#: language-bk180910.php:62
+#: language-bk210910.php:62
+#: language-bk270910.php:62
+#: language.php:62
+#@ default
+msgid "How May We Help You?"
+msgstr ""
+
+#: language-bk180910.php:64
+#: language-bk210910.php:64
+#: language-bk270910.php:64
+#: language.php:64
+#@ default
+msgid "Loading image. Please wait"
+msgstr ""
+
+#: language-bk180910.php:65
+#: language-bk180910.php:308
+#: language-bk210910.php:65
+#: language-bk210910.php:309
+#: language-bk270910.php:65
+#: language-bk270910.php:309
+#: language.php:65
+#: language.php:312
+#@ default
+msgid "For"
+msgstr ""
+
+#: language-bk180910.php:66
+#: language-bk210910.php:66
+#: language-bk270910.php:66
+#: language.php:66
+#@ default
+msgid "by Agent"
+msgstr ""
+
+#: language-bk180910.php:67
+#: language-bk210910.php:67
+#: language-bk270910.php:67
+#: language.php:67
+#@ default
+msgid "Listing Details"
+msgstr ""
+
+#: language-bk180910.php:68
+#: language-bk210910.php:68
+#: language-bk270910.php:68
+#: language.php:68
+#@ default
+msgid "Listed on"
+msgstr ""
+
+#: language-bk180910.php:69
+#: language-bk210910.php:69
+#: language-bk270910.php:69
+#: language.php:69
+#@ default
+msgid "Property Id"
+msgstr ""
+
+#: language-bk180910.php:70
+#: language-bk210910.php:70
+#: language-bk270910.php:70
+#: language.php:70
+#@ default
+msgid "Agent Contact  Info"
+msgstr ""
+
+#: language-bk180910.php:71
+#: language-bk180910.php:331
+#: language-bk210910.php:71
+#: language-bk210910.php:332
+#: language-bk270910.php:71
+#: language-bk270910.php:332
+#: language.php:71
+#: language.php:335
+#@ default
+msgid "Visit Agent's Website"
+msgstr ""
+
+#: language-bk180910.php:72
+#: language-bk210910.php:72
+#: language-bk270910.php:72
+#: language.php:72
+#@ default
+msgid "Agent's Other Listings"
+msgstr ""
+
+#: language-bk180910.php:73
+#: language-bk180910.php:294
+#: language-bk180910.php:304
+#: language-bk180910.php:334
+#: language-bk210910.php:73
+#: language-bk210910.php:295
+#: language-bk210910.php:305
+#: language-bk210910.php:335
+#: language-bk270910.php:73
+#: language-bk270910.php:295
+#: language-bk270910.php:305
+#: language-bk270910.php:335
+#: language.php:298
+#: language.php:308
+#: language.php:338
+#@ default
+msgid "Phone"
+msgstr ""
+
+#: language-bk180910.php:74
+#: language-bk210910.php:74
+#: language-bk270910.php:74
+#: language.php:77
+#@ default
+msgid "Schedule a Showing"
+msgstr ""
+
+#: language-bk180910.php:75
+#: language-bk180910.php:292
+#: language-bk210910.php:75
+#: language-bk210910.php:293
+#: language-bk270910.php:75
+#: language-bk270910.php:293
+#: language.php:296
+#@ default
+msgid "Name"
+msgstr ""
+
+#: language-bk180910.php:76
+#: language-bk180910.php:349
+#: language-bk210910.php:76
+#: language-bk210910.php:350
+#: language-bk270910.php:76
+#: language-bk270910.php:350
+#: language.php:79
+#: language.php:353
+#@ default
+msgid "Email address"
+msgstr ""
+
+#: language-bk180910.php:77
+#: language-bk180910.php:136
+#: language-bk210910.php:77
+#: language-bk210910.php:136
+#: language-bk270910.php:77
+#: language-bk270910.php:136
+#: language.php:80
+#: language.php:139
+#@ default
+msgid "Phone Number"
+msgstr ""
+
+#: language-bk180910.php:78
+#: language-bk180910.php:183
+#: language-bk180910.php:295
+#: language-bk180910.php:352
+#: language-bk210910.php:78
+#: language-bk210910.php:183
+#: language-bk210910.php:296
+#: language-bk210910.php:353
+#: language-bk270910.php:78
+#: language-bk270910.php:183
+#: language-bk270910.php:296
+#: language-bk270910.php:353
+#: language.php:81
+#: language.php:186
+#: language.php:299
+#: language.php:356
+#: library/includes/admin_notification_edit.php:192
+#@ default
+msgid "Message"
+msgstr ""
+
+#: language-bk180910.php:79
+#: language-bk180910.php:353
+#: language-bk210910.php:79
+#: language-bk210910.php:354
+#: language-bk270910.php:79
+#: language-bk270910.php:354
+#: language.php:82
+#: language.php:357
+#@ default
+msgid "Send"
+msgstr ""
+
+#: language-bk180910.php:86
+#: language-bk210910.php:86
+#: language-bk270910.php:86
+#: language.php:89
+#@ default
+msgid "Category"
+msgstr ""
+
+#: language-bk180910.php:89
+#: language-bk210910.php:89
+#: language-bk270910.php:89
+#: language.php:92
+#@ default
+msgid "Switch Thumb"
+msgstr ""
+
+#: language-bk180910.php:90
+#: language-bk210910.php:90
+#: language-bk270910.php:90
+#: language.php:93
+#@ default
+msgid "Sorry! no property available matching your criteria. Kindly try a different search"
+msgstr ""
+
+#: language-bk180910.php:91
+#: language-bk210910.php:91
+#: language-bk270910.php:91
+#: language.php:94
+#@ default
+msgid "Bed(s)"
+msgstr ""
+
+#: language-bk180910.php:92
+#: language-bk210910.php:92
+#: language-bk270910.php:92
+#: language.php:95
+#@ default
+msgid "Bath(s)"
+msgstr ""
+
+#: language-bk180910.php:94
+#: language-bk210910.php:94
+#: language-bk270910.php:94
+#: language.php:97
+#@ default
+msgid "Email to Agent"
+msgstr ""
+
+#: language-bk180910.php:96
+#: language-bk210910.php:96
+#: language-bk270910.php:96
+#: language.php:99
+#@ default
+msgid "Search Results"
+msgstr ""
+
+#: language-bk180910.php:97
+#: language-bk210910.php:97
+#: language-bk270910.php:97
+#: language.php:100
+#@ default
+msgid "All Properties"
+msgstr ""
+
+#: language-bk180910.php:102
+#: language-bk210910.php:102
+#: language-bk270910.php:102
+#: language.php:105
+#@ default
+msgid "Featured Properties"
+msgstr ""
+
+#: language-bk180910.php:105
+#: language-bk210910.php:105
+#: language-bk270910.php:105
+#: language.php:108
+#@ default
+msgid "Similar Properties"
+msgstr ""
+
+#: language-bk180910.php:109
+#: language-bk210910.php:109
+#: language-bk270910.php:109
+#: language.php:112
+#: library/functions/admin_dashboard.php:68
+#@ default
+msgid "Latest Properties"
+msgstr ""
+
+#: language-bk180910.php:110
+#: language-bk210910.php:110
+#: language-bk270910.php:110
+#: language.php:113
+#@ default
+msgid "View More Properties"
+msgstr ""
+
+#: language-bk180910.php:113
+#: language-bk210910.php:113
+#: language-bk270910.php:113
+#: language.php:116
+#@ default
+msgid "Forgot Password?"
+msgstr ""
+
+#: language-bk180910.php:114
+#: language-bk180910.php:122
+#: language-bk180910.php:293
+#: language-bk210910.php:114
+#: language-bk210910.php:122
+#: language-bk210910.php:294
+#: language-bk270910.php:114
+#: language-bk270910.php:122
+#: language-bk270910.php:294
+#: language.php:117
+#: language.php:125
+#: language.php:297
+#@ default
+msgid "E-mail"
+msgstr ""
+
+#: language-bk180910.php:115
+#: language-bk210910.php:115
+#: language-bk270910.php:115
+#: library/functions/widgets_functions-bk240910-1.php:397
+#: library/functions/widgets_functions-bk240910.php:391
+#: library/functions/widgets_functions-bk270910.php:397
+#: library/functions/widgets_functions.php:397
+#@ default
+msgid "Username"
+msgstr ""
+
+#: language-bk180910.php:116
+#: language-bk180910.php:258
+#: language-bk180910.php:270
+#: language-bk210910.php:116
+#: language-bk210910.php:258
+#: language-bk210910.php:270
+#: language-bk270910.php:116
+#: language-bk270910.php:258
+#: language-bk270910.php:270
+#: language.php:261
+#: language.php:273
+#: library/functions/widgets_functions-bk240910-1.php:398
+#: library/functions/widgets_functions-bk240910.php:392
+#: library/functions/widgets_functions-bk270910.php:398
+#: library/functions/widgets_functions.php:398
+#@ default
+msgid "Password"
+msgstr ""
+
+#: language-bk180910.php:117
+#: language-bk210910.php:117
+#: language-bk270910.php:117
+#: language.php:120
+#@ default
+msgid "Remember me on this computer"
+msgstr ""
+
+#: language-bk180910.php:118
+#: language-bk210910.php:118
+#: language-bk270910.php:118
+#: language.php:121
+#@ default
+msgid "Get New Password"
+msgstr ""
+
+#: language-bk180910.php:119
+#: language-bk210910.php:119
+#: language-bk270910.php:119
+#: language.php:122
+#@ default
+msgid "Indicates mandatory fields"
+msgstr ""
+
+#: language-bk180910.php:120
+#: language-bk210910.php:120
+#: language-bk270910.php:120
+#: language.php:123
+#@ default
+msgid "Sign Up Now"
+msgstr ""
+
+#: language-bk180910.php:121
+#: language-bk210910.php:121
+#: language-bk270910.php:121
+#: language.php:124
+#@ default
+msgid "Personal Information"
+msgstr ""
+
+#: language-bk180910.php:125
+#: language-bk210910.php:125
+#: language-bk270910.php:125
+#: language.php:128
+#@ default
+msgid "Address Information"
+msgstr ""
+
+#: language-bk180910.php:126
+#: language-bk210910.php:126
+#: language-bk270910.php:126
+#: language.php:129
+#@ default
+msgid "Address1"
+msgstr ""
+
+#: language-bk180910.php:127
+#: language-bk210910.php:127
+#: language-bk270910.php:127
+#: language.php:130
+#@ default
+msgid "Address2"
+msgstr ""
+
+#: language-bk180910.php:130
+#: language-bk180910.php:205
+#: language-bk210910.php:130
+#: language-bk210910.php:205
+#: language-bk270910.php:130
+#: language-bk270910.php:205
+#: language.php:133
+#: language.php:208
+#@ default
+msgid "Country"
+msgstr ""
+
+#: language-bk180910.php:131
+#: language-bk210910.php:131
+#: language-bk270910.php:131
+#: language.php:134
+#@ default
+msgid "Postal Code"
+msgstr ""
+
+#: language-bk180910.php:132
+#: language-bk210910.php:132
+#: language-bk270910.php:132
+#: language.php:135
+#@ default
+msgid "(note: A password will be e-mailed to you for future usage.)"
+msgstr ""
+
+#: language-bk180910.php:133
+#: language-bk210910.php:133
+#: language-bk270910.php:133
+#: language.php:136
+#@ default
+msgid "Your Web Site"
+msgstr ""
+
+#: language-bk180910.php:134
+#: language-bk210910.php:134
+#: language-bk270910.php:134
+#: language.php:137
+#@ default
+msgid "Your Twitter URL"
+msgstr ""
+
+#: language-bk180910.php:137
+#: language-bk210910.php:137
+#: language-bk270910.php:137
+#: language.php:140
+#@ default
+msgid "Register Now"
+msgstr ""
+
+#: language-bk180910.php:139
+#: language-bk210910.php:139
+#: language-bk270910.php:139
+#: language.php:142
+#@ default
+msgid "Register"
+msgstr ""
+
+#: language-bk180910.php:142
+#: language-bk210910.php:142
+#: language-bk270910.php:142
+#: language.php:145
+#@ default
+msgid "Invalid Username/Password."
+msgstr ""
+
+#: language-bk180910.php:143
+#: language-bk210910.php:143
+#: language-bk270910.php:143
+#: language.php:146
+#@ default
+msgid "Registration complete. Please check your e-mail for login details."
+msgstr ""
+
+#: language-bk180910.php:144
+#: language-bk210910.php:144
+#: language-bk270910.php:144
+#: language.php:147
+#@ default
+msgid "We just sent you a new password. Kindly check your e-mail now."
+msgstr ""
+
+#: language-bk180910.php:145
+#: language-bk210910.php:145
+#: language-bk270910.php:145
+#: language.php:148
+#@ default
+msgid "A confirmation link has been sent to you via email. Kindly check your e-mail now."
+msgstr ""
+
+#: language-bk180910.php:146
+#: language-bk210910.php:146
+#: language-bk270910.php:146
+#: language.php:149
+#@ default
+msgid "User registration has been disabled by the admin."
+msgstr ""
+
+#: language-bk180910.php:147
+#: language-bk210910.php:147
+#: language-bk270910.php:147
+#: language.php:150
+#@ default
+msgid "You are now logged out."
+msgstr ""
+
+#: language-bk180910.php:148
+#: language-bk210910.php:148
+#: language-bk270910.php:148
+#: language.php:151
+#@ default
+msgid "Please enter your e-mail address as username. You will receive a new password via e-mail."
+msgstr ""
+
+#: language-bk180910.php:149
+#: language-bk210910.php:149
+#: language-bk270910.php:149
+#: language.php:152
+#@ default
+msgid "Other Information"
+msgstr ""
+
+#: language-bk180910.php:150
+#: language-bk210910.php:150
+#: language-bk270910.php:150
+#: language.php:153
+#@ default
+msgid "Twitter URL"
+msgstr ""
+
+#: language-bk180910.php:151
+#: language-bk180910.php:214
+#: language-bk210910.php:151
+#: language-bk210910.php:214
+#: language-bk270910.php:151
+#: language-bk270910.php:214
+#: language.php:154
+#: language.php:217
+#: library/functions/widgets_functions-bk240910-1.php:305
+#: library/functions/widgets_functions-bk240910-1.php:354
+#: library/functions/widgets_functions-bk240910.php:301
+#: library/functions/widgets_functions-bk240910.php:348
+#: library/functions/widgets_functions-bk270910.php:305
+#: library/functions/widgets_functions-bk270910.php:354
+#: library/functions/widgets_functions.php:305
+#: library/functions/widgets_functions.php:354
+#: library/includes/admin_notification.php:120
+#: library/includes/admin_notification.php:149
+#@ default
+msgid "Description"
+msgstr ""
+
+#: language-bk180910.php:152
+#: language-bk210910.php:152
+#: language-bk270910.php:152
+#: language.php:155
+#@ default
+msgid "Profile picture"
+msgstr ""
+
+#: language-bk180910.php:153
+#: language-bk210910.php:153
+#: language-bk270910.php:153
+#: language.php:156
+#@ default
+msgid "Invalid Email, Please check"
+msgstr ""
+
+#: language-bk180910.php:154
+#: language-bk210910.php:154
+#: language-bk270910.php:154
+#: language.php:157
+#@ default
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: language-bk180910.php:157
+#: language-bk180910.php:300
+#: language-bk210910.php:157
+#: language-bk210910.php:301
+#: language-bk270910.php:157
+#: language-bk270910.php:301
+#: language.php:160
+#: language.php:304
+#@ default
+msgid "Edit Profile"
+msgstr ""
+
+#: language-bk180910.php:158
+#: language-bk180910.php:164
+#: language-bk210910.php:158
+#: language-bk210910.php:164
+#: language-bk270910.php:158
+#: language-bk270910.php:164
+#: language.php:161
+#: language.php:167
+#@ default
+msgid "Password Changed successfully."
+msgstr ""
+
+#: language-bk180910.php:159
+#: language-bk210910.php:159
+#: language-bk270910.php:159
+#: language.php:162
+#@ default
+msgid "Your information updated successfully."
+msgstr ""
+
+#: language-bk180910.php:160
+#: language-bk210910.php:160
+#: language-bk270910.php:160
+#: language.php:163
+#@ default
+msgid "Change Password"
+msgstr ""
+
+#: language-bk180910.php:161
+#: language-bk210910.php:161
+#: language-bk270910.php:161
+#: language.php:164
+#@ default
+msgid "New Password"
+msgstr ""
+
+#: language-bk180910.php:162
+#: language-bk210910.php:162
+#: language-bk270910.php:162
+#: language.php:165
+#@ default
+msgid "Confirm New Password"
+msgstr ""
+
+#: language-bk180910.php:163
+#: language-bk180910.php:220
+#: language-bk210910.php:163
+#: language-bk210910.php:220
+#: language-bk270910.php:163
+#: language-bk270910.php:220
+#: language.php:166
+#: language.php:223
+#@ default
+msgid "Update"
+msgstr ""
+
+#: language-bk180910.php:167
+#: language-bk180910.php:176
+#: language-bk210910.php:167
+#: language-bk210910.php:176
+#: language-bk270910.php:167
+#: language-bk270910.php:176
+#: language.php:170
+#: language.php:179
+#@ default
+msgid "Dashboard"
+msgstr ""
+
+#: language-bk180910.php:168
+#: language-bk210910.php:168
+#: language-bk270910.php:168
+#: language.php:171
+#@ default
+msgid "Edit Property"
+msgstr ""
+
+#: language-bk180910.php:169
+#: language-bk210910.php:169
+#: language-bk270910.php:169
+#: language.php:172
+#@ default
+msgid "Renew Property"
+msgstr ""
+
+#: language-bk180910.php:170
+#: language-bk210910.php:170
+#: language-bk270910.php:170
+#: language.php:173
+#@ default
+msgid "Delete Property"
+msgstr ""
+
+#: language-bk180910.php:171
+#: language-bk210910.php:171
+#: language-bk270910.php:171
+#: language.php:174
+#@ default
+msgid "Property Information updated successfully"
+msgstr ""
+
+#: language-bk180910.php:172
+#: language-bk210910.php:172
+#: language-bk270910.php:172
+#: language.php:175
+#@ default
+msgid "Property Information deleted successfully"
+msgstr ""
+
+#: language-bk180910.php:175
+#: language-bk210910.php:175
+#: language-bk270910.php:175
+#: language.php:178
+#@ default
+msgid "My Account"
+msgstr ""
+
+#: language-bk180910.php:179
+#: language-bk210910.php:179
+#: language-bk270910.php:179
+#: language.php:182
+#@ default
+msgid "Send Inquiry"
+msgstr ""
+
+#: language-bk180910.php:180
+#: language-bk180910.php:350
+#: language-bk210910.php:180
+#: language-bk210910.php:351
+#: language-bk270910.php:180
+#: language-bk270910.php:351
+#: language.php:183
+#: language.php:354
+#@ default
+msgid "Your Name"
+msgstr ""
+
+#: language-bk180910.php:181
+#: language-bk210910.php:181
+#: language-bk270910.php:181
+#: language.php:184
+#@ default
+msgid "Email Address"
+msgstr ""
+
+#: language-bk180910.php:182
+#: language-bk180910.php:351
+#: language-bk210910.php:182
+#: language-bk210910.php:352
+#: language-bk270910.php:182
+#: language-bk270910.php:352
+#: language.php:185
+#: language.php:355
+#: library/includes/admin_notification.php:119
+#@ default
+msgid "Subject"
+msgstr ""
+
+#: language-bk180910.php:184
+#: language-bk210910.php:184
+#: language-bk270910.php:184
+#: language.php:187
+#@ default
+msgid "Hi there, Kindly do check this property that I think you might be interested in.."
+msgstr ""
+
+#: language-bk180910.php:185
+#: language-bk210910.php:185
+#: language-bk270910.php:185
+#: language.php:188
+#@ default
+msgid "Hi there, I would like to inquire about this property. I would like to ask more info about..."
+msgstr ""
+
+#: language-bk180910.php:186
+#: language-bk210910.php:186
+#: language-bk270910.php:186
+#: language.php:189
+#@ default
+msgid "Invalid E-mail ID"
+msgstr ""
+
+#: language-bk180910.php:190
+#: language-bk180910.php:191
+#: language-bk210910.php:190
+#: language-bk210910.php:191
+#: language-bk270910.php:190
+#: language-bk270910.php:191
+#: language.php:193
+#: language.php:194
+#@ default
+msgid "Email This Post"
+msgstr ""
+
+#: language-bk180910.php:192
+#: language-bk210910.php:192
+#: language-bk270910.php:192
+#: language.php:195
+#@ default
+msgid "To Name"
+msgstr ""
+
+#: language-bk180910.php:193
+#: language-bk210910.php:193
+#: language-bk270910.php:193
+#: language.php:196
+#@ default
+msgid "To Email"
+msgstr ""
+
+#: language-bk180910.php:194
+#: language-bk210910.php:194
+#: language-bk270910.php:194
+#: language.php:197
+#@ default
+msgid "Your Email"
+msgstr ""
+
+#: language-bk180910.php:198
+#: language-bk210910.php:198
+#: language-bk270910.php:198
+#: language.php:201
+#@ default
+msgid "Property Information"
+msgstr ""
+
+#: language-bk180910.php:199
+#: language-bk210910.php:199
+#: language-bk270910.php:199
+#: language.php:202
+#@ default
+msgid "Property Name"
+msgstr ""
+
+#: language-bk180910.php:208
+#: language-bk210910.php:208
+#: language-bk270910.php:208
+#: language.php:211
+#@ default
+msgid "Bedroom"
+msgstr ""
+
+#: language-bk180910.php:211
+#: language-bk180910.php:213
+#: language-bk210910.php:211
+#: language-bk210910.php:213
+#: language-bk270910.php:211
+#: language-bk270910.php:213
+#: language.php:214
+#: language.php:216
+#@ default
+msgid "Sq. Ft"
+msgstr ""
+
+#: language-bk180910.php:216
+#: language-bk210910.php:216
+#: language-bk270910.php:216
+#: language.php:219
+#@ default
+msgid "Review Your Listing"
+msgstr ""
+
+#: language-bk180910.php:217
+#: language-bk210910.php:217
+#: language-bk270910.php:217
+#: language.php:220
+#: library/includes/admin_coupon.php:135
+#: library/includes/admin_notification_edit.php:202
+#: library/includes/admin_paymet_settings.php:117
+#@ default
+msgid "Cancel"
+msgstr ""
+
+#: language-bk180910.php:218
+#: language-bk210910.php:218
+#: language-bk270910.php:218
+#: language.php:221
+#@ default
+msgid "Go Back and Edit"
+msgstr ""
+
+#: language-bk180910.php:219
+#: language-bk210910.php:219
+#: language-bk270910.php:219
+#: language.php:222
+#@ default
+msgid "Add"
+msgstr ""
+
+#: language-bk180910.php:223
+#: language-bk210910.php:223
+#: language-bk270910.php:223
+#: language.php:226
+#@ default
+msgid "Pay & Publish"
+msgstr ""
+
+#: language-bk180910.php:224
+#: language-bk210910.php:224
+#: language-bk270910.php:224
+#: language.php:227
+#@ default
+msgid "Update Now"
+msgstr ""
+
+#: language-bk180910.php:225
+#: language-bk210910.php:225
+#: language-bk270910.php:225
+#: language.php:228
+#@ default
+msgid "Are you really sure want to DELETE this property? Deleted property can not be recovered later"
+msgstr ""
+
+#: language-bk180910.php:226
+#: language-bk210910.php:226
+#: language-bk270910.php:226
+#: language.php:229
+#@ default
+msgid "Yes, Delete Please!"
+msgstr ""
+
+#: language-bk180910.php:227
+#: language-bk210910.php:227
+#: language-bk270910.php:227
+#: language.php:230
+#@ default
+msgid "Select Payment Method"
+msgstr ""
+
+#: language-bk180910.php:230
+#: language-bk210910.php:230
+#: language-bk270910.php:230
+#: language.php:233
+#@ default
+msgid "Property submitted successfully."
+msgstr ""
+
+#: language-bk180910.php:231
+#: language-bk210910.php:231
+#: language-bk270910.php:231
+#: language.php:234
+#@ default
+msgid "Property listing has been renewed successfully"
+msgstr ""
+
+#: language-bk180910.php:232
+#: language-bk210910.php:232
+#: language-bk270910.php:232
+#: language.php:235
+#@ default
+msgid "<p class=\"sucess_msg\">Thank you, your property request has been received successfully.</p><p><a href=\"[#$submited_property_link#]\"  class=\"btn_input_highlight\" >View your submitted Property &raquo;</a></p> <p>&nbsp; </p><p>Thanks for listing your property at [#$store_name#].</p>"
+msgstr ""
+
+#: language-bk180910.php:233
+#: language-bk210910.php:233
+#: language-bk270910.php:233
+#: language.php:236
+#@ default
+msgid ""
+"<p>Thanks. The property has been submitted successfully.</p><p>In order to publish the property, kindly transfer amount of <u>[#$order_amt#] </u> in our bank. Our bank account details is mentioned below.</p>\n"
+"<p>Bank Name : [#$bank_name#]</p><p>Account Number : [#$account_number#]</p><br><p>Please include the following reference : [#$orderId#]</p><p><a href=\"[#$submited_property_link#]\" >View your submitted Property &raquo;</a></p><br><p>Thanks for listing your property at [#$store_name#].</p>"
+msgstr ""
+
+#: language-bk180910.php:237
+#: language-bk210910.php:237
+#: language-bk270910.php:237
+#: language.php:240
+#@ default
+msgid "Payment Success"
+msgstr ""
+
+#: language-bk180910.php:238
+#: language-bk210910.php:238
+#: language-bk270910.php:238
+#: language.php:241
+#@ default
+msgid "Thanks for listing your property at our site"
+msgstr ""
+
+#: language-bk180910.php:239
+#: language-bk210910.php:239
+#: language-bk270910.php:239
+#: language.php:242
+#@ default
+msgid "Your payment has been successfully received and your property is published.<br>"
+msgstr ""
+
+#: language-bk180910.php:240
+#: language-bk210910.php:240
+#: language-bk270910.php:240
+#: language.php:243
+#@ default
+msgid "Thank you for become our valued member"
+msgstr ""
+
+#: language-bk180910.php:241
+#: language-bk210910.php:241
+#: language-bk270910.php:241
+#: language.php:244
+#@ default
+msgid "<h4>your payment has been received successfully and the property you submitted has been published on our site.</h4><p><a href=\"[#$submited_property_link#]\" >View your submitted Property &raquo;</a></p><h5>Thank you for become our member at [#$store_name#].</h5>"
+msgstr ""
+
+#: language-bk180910.php:244
+#: language-bk210910.php:244
+#: language-bk270910.php:244
+#: language.php:247
+#@ default
+msgid "Payment Cancellation"
+msgstr ""
+
+#: language-bk180910.php:245
+#: language-bk210910.php:245
+#: language-bk270910.php:245
+#: language.php:248
+#@ default
+msgid "Paypal payment has been cancelled successfully. The property submitted by you has not been published."
+msgstr ""
+
+#: language-bk180910.php:246
+#: language-bk210910.php:246
+#: language-bk270910.php:246
+#: language.php:249
+#@ default
+msgid "<p><a href=\"[#$submited_property_link#]\" >View your submitted Property &raquo;</a></p>"
+msgstr ""
+
+#: language-bk180910.php:249
+#: language-bk210910.php:249
+#: language-bk270910.php:249
+#: language.php:252
+#@ default
+msgid "-- Select Price --"
+msgstr ""
+
+#: language-bk180910.php:250
+#: language-bk210910.php:250
+#: language-bk270910.php:250
+#: language.php:253
+#@ default
+msgid "-- Select Bedroom --"
+msgstr ""
+
+#: language-bk180910.php:251
+#: language-bk210910.php:251
+#: language-bk270910.php:251
+#: language.php:254
+#@ default
+msgid "-- Select Location --"
+msgstr ""
+
+#: language-bk180910.php:257
+#: language-bk210910.php:257
+#: language-bk270910.php:257
+#: language.php:260
+#@ default
+msgid "Login"
+msgstr ""
+
+#: language-bk180910.php:259
+#: language-bk210910.php:259
+#: language-bk270910.php:259
+#: language.php:262
+#@ default
+msgid "Property  Title"
+msgstr ""
+
+#: language-bk180910.php:260
+#: language-bk210910.php:260
+#: language-bk270910.php:260
+#: language.php:263
+#@ default
+msgid "For Sale/Rent?"
+msgstr ""
+
+#: language-bk180910.php:262
+#: language-bk210910.php:262
+#: language-bk270910.php:262
+#: language.php:265
+#@ default
+msgid "-- Select Bathrooms --"
+msgstr ""
+
+#: language-bk180910.php:265
+#@ default
+msgid "MLS No."
+msgstr ""
+
+#: language-bk180910.php:266
+#: language-bk210910.php:266
+#: language-bk270910.php:266
+#: language.php:269
+#@ default
+msgid "Property Photo"
+msgstr ""
+
+#: language-bk180910.php:267
+#: language-bk210910.php:267
+#: language-bk270910.php:267
+#: language.php:270
+#@ default
+msgid "Photos"
+msgstr ""
+
+#: language-bk180910.php:268
+#: language-bk210910.php:268
+#: language-bk270910.php:268
+#: language.php:271
+#@ default
+msgid "General Property information"
+msgstr ""
+
+#: language-bk180910.php:269
+#: language-bk210910.php:269
+#: language-bk270910.php:269
+#: language.php:272
+#@ default
+msgid "List Type"
+msgstr ""
+
+#: language-bk180910.php:271
+#: language-bk210910.php:271
+#: language-bk270910.php:271
+#: language.php:274
+#@ default
+msgid "Sale"
+msgstr ""
+
+#: language-bk180910.php:273
+#: language-bk210910.php:274
+#: language-bk270910.php:274
+#: language.php:277
+#@ default
+msgid "This property is listed as Featured. Do you want to remove it from feature listing?"
+msgstr ""
+
+#: language-bk180910.php:274
+#: language-bk210910.php:275
+#: language-bk270910.php:275
+#: language.php:278
+#@ default
+msgid "Contact Details"
+msgstr ""
+
+#: language-bk180910.php:275
+#: language-bk210910.php:276
+#: language-bk270910.php:276
+#: language.php:279
+#@ default
+msgid "Contact name"
+msgstr ""
+
+#: language-bk180910.php:278
+#: language-bk210910.php:279
+#: language-bk270910.php:279
+#: language.php:282
+#@ default
+msgid "Mobile Number"
+msgstr ""
+
+#: language-bk180910.php:280
+#: language-bk210910.php:281
+#: language-bk270910.php:281
+#: language.php:284
+#@ default
+msgid "Website"
+msgstr ""
+
+#: language-bk180910.php:281
+#: language-bk180910.php:302
+#: language-bk180910.php:332
+#: language-bk210910.php:282
+#: language-bk210910.php:303
+#: language-bk210910.php:333
+#: language-bk270910.php:282
+#: language-bk270910.php:303
+#: language-bk270910.php:333
+#: language.php:285
+#: language.php:306
+#: language.php:336
+#@ default
+msgid "Twitter"
+msgstr ""
+
+#: language-bk180910.php:282
+#: language-bk210910.php:283
+#: language-bk270910.php:283
+#: language.php:286
+#@ default
+msgid "Upload Photo"
+msgstr ""
+
+#: language-bk180910.php:283
+#: language-bk210910.php:284
+#: language-bk270910.php:284
+#: language.php:287
+#@ default
+msgid "Short Biodata Information"
+msgstr ""
+
+#: language-bk180910.php:284
+#: language-bk210910.php:285
+#: language-bk270910.php:285
+#: language.php:288
+#@ default
+msgid "Note : PNG, GIF of JPEG only, for better image quality upload image size 150x150"
+msgstr ""
+
+#: language-bk180910.php:285
+#: language-bk210910.php:286
+#: language-bk270910.php:286
+#: language.php:289
+#@ default
+msgid "Note : Basic HTML tags are allowed"
+msgstr ""
+
+#: language-bk180910.php:286
+#: language-bk210910.php:287
+#: language-bk270910.php:287
+#: language.php:290
+#: library/includes/admin_coupon.php:108
+#: library/includes/admin_manage_coupon.php:72
+#@ default
+msgid "Coupon Code"
+msgstr ""
+
+#: language-bk180910.php:288
+#: language-bk210910.php:289
+#: language-bk270910.php:289
+#: language.php:292
+#@ default
+msgid "Find Properties"
+msgstr ""
+
+#: language-bk180910.php:291
+#: language-bk180910.php:333
+#: language-bk210910.php:292
+#: language-bk210910.php:334
+#: language-bk270910.php:292
+#: language-bk270910.php:334
+#: language.php:295
+#: language.php:337
+#@ default
+msgid "Email Agent"
+msgstr ""
+
+#: language-bk180910.php:296
+#: language-bk210910.php:297
+#: language-bk270910.php:297
+#: language.php:300
+#@ default
+msgid "Send Now"
+msgstr ""
+
+#: language-bk180910.php:297
+#: language-bk210910.php:298
+#: language-bk270910.php:298
+#: language.php:301
+#@ default
+msgid "<p class=\"sucess_msg\">Message Sent Successfully!</p>"
+msgstr ""
+
+#: language-bk180910.php:301
+#: language-bk210910.php:302
+#: language-bk270910.php:302
+#: language.php:305
+#@ default
+msgid "Visit Website"
+msgstr ""
+
+#: language-bk180910.php:303
+#: language-bk210910.php:304
+#: language-bk270910.php:304
+#: language.php:307
+#@ default
+msgid "Properties Listed"
+msgstr ""
+
+#: language-bk180910.php:305
+#: language-bk210910.php:306
+#: language-bk270910.php:306
+#: language.php:309
+#@ default
+msgid "Email This Agent"
+msgstr ""
+
+#: language-bk180910.php:306
+#: language-bk210910.php:307
+#: language-bk270910.php:307
+#: language.php:310
+#@ default
+msgid "My Listed Properties"
+msgstr ""
+
+#: language-bk180910.php:307
+#: language-bk210910.php:308
+#: language-bk270910.php:308
+#: language.php:311
+#@ default
+msgid "My Favorite Properties"
+msgstr ""
+
+#: language-bk180910.php:310
+#: language-bk210910.php:311
+#: language-bk270910.php:311
+#: language.php:314
+#@ default
+msgid "MLS #"
+msgstr ""
+
+#: language-bk180910.php:312
+#: language-bk210910.php:313
+#: language-bk270910.php:313
+#: language.php:316
+#@ default
+msgid "Posted on"
+msgstr ""
+
+#: language-bk180910.php:313
+#: language-bk210910.php:314
+#: language-bk270910.php:314
+#: language.php:317
+#@ default
+msgid "Agent Name"
+msgstr ""
+
+#: language-bk180910.php:314
+#: language-bk210910.php:315
+#: language-bk270910.php:315
+#: language.php:318
+#: library/includes/admin_manage_coupon.php:76
+#: library/includes/admin_manage_coupon.php:96
+#@ default
+msgid "Edit"
+msgstr ""
+
+#: language-bk180910.php:315
+#: language-bk210910.php:316
+#: language-bk270910.php:316
+#: language.php:319
+#: library/includes/admin_manage_coupon.php:77
+#: library/includes/admin_manage_coupon.php:97
+#@ default
+msgid "Delete"
+msgstr ""
+
+#: language-bk180910.php:316
+#: language-bk210910.php:317
+#: language-bk270910.php:317
+#: language.php:320
+#@ default
+msgid "expires in"
+msgstr ""
+
+#: language-bk180910.php:317
+#: language-bk210910.php:318
+#: language-bk270910.php:318
+#: language.php:321
+#@ default
+msgid "days"
+msgstr ""
+
+#: language-bk180910.php:318
+#: language-bk210910.php:319
+#: language-bk270910.php:319
+#: language.php:322
+#@ default
+msgid "Renew"
+msgstr ""
+
+#: language-bk180910.php:319
+#: language-bk210910.php:320
+#: language-bk270910.php:320
+#: language.php:323
+#@ default
+msgid "No property available."
+msgstr ""
+
+#: language-bk180910.php:320
+#: language-bk210910.php:321
+#: language-bk270910.php:321
+#: language.php:324
+#: library/includes/admin_settings.php:245
+#@ default
+msgid "Agent"
+msgstr ""
+
+#: language-bk180910.php:321
+#: language-bk210910.php:322
+#: language-bk270910.php:322
+#: language.php:325
+#@ default
+msgid "Properties Listed by this Agent"
+msgstr ""
+
+#: language-bk180910.php:325
+#: language-bk210910.php:326
+#: language-bk270910.php:326
+#: language.php:329
+#@ default
+msgid "Sort by"
+msgstr ""
+
+#: language-bk180910.php:326
+#: language-bk210910.php:327
+#: language-bk270910.php:327
+#: language.php:330
+#@ default
+msgid "All Agents"
+msgstr ""
+
+#: language-bk180910.php:327
+#: language-bk210910.php:328
+#: language-bk270910.php:328
+#: language.php:331
+#@ default
+msgid "Alphabetical"
+msgstr ""
+
+#: language-bk180910.php:328
+#: language-bk210910.php:329
+#: language-bk270910.php:329
+#: language.php:332
+#@ default
+msgid "Most Properties"
+msgstr ""
+
+#: language-bk180910.php:329
+#: language-bk210910.php:330
+#: language-bk270910.php:330
+#: language.php:333
+#: library/functions/widgets_functions-bk240910-1.php:664
+#: library/functions/widgets_functions-bk240910.php:655
+#@ default
+msgid "Listed"
+msgstr ""
+
+#: language-bk180910.php:330
+#: language-bk210910.php:331
+#: language-bk270910.php:331
+#: language.php:334
+#: library/functions/widgets_functions-bk240910-1.php:664
+#: library/functions/widgets_functions-bk240910.php:655
+#@ default
+msgid "Properties"
+msgstr ""
+
+#: language-bk180910.php:335
+#: language-bk210910.php:336
+#: language-bk270910.php:336
+#: language.php:339
+#@ default
+msgid "View Profile"
+msgstr ""
+
+#: language-bk180910.php:336
+#: language-bk210910.php:337
+#: language-bk270910.php:337
+#: language.php:340
+#@ default
+msgid "No listing available begining with "
+msgstr ""
+
+#: language-bk180910.php:339
+#: language-bk210910.php:340
+#: language-bk270910.php:340
+#: language.php:343
+#@ default
+msgid "you are going to pay"
+msgstr ""
+
+#: language-bk180910.php:340
+#: language-bk210910.php:341
+#: language-bk270910.php:341
+#: language.php:344
+#@ default
+msgid "None of payment method is active right now."
+msgstr ""
+
+#: language-bk180910.php:341
+#: language-bk210910.php:342
+#: language-bk270910.php:342
+#: language.php:345
+#@ default
+msgid "you are going to update"
+msgstr ""
+
+#: language-bk180910.php:342
+#: language-bk210910.php:343
+#: language-bk270910.php:343
+#: language.php:346
+#@ default
+msgid "Email ID already exists. Please select a different Email."
+msgstr ""
+
+#: language-bk180910.php:343
+#: language-bk210910.php:344
+#: language-bk270910.php:344
+#: language.php:347
+#@ default
+msgid "Invalid Coupon Code"
+msgstr ""
+
+#: language-bk180910.php:345
+#: language-bk210910.php:346
+#: language-bk270910.php:346
+#: language.php:349
+#@ default
+msgid "Note : you will be able to sort image order once the property is submitted"
+msgstr ""
+
+#: language-bk180910.php:348
+#: language-bk210910.php:349
+#: language-bk270910.php:349
+#: language.php:352
+#@ default
+msgid "Thank you. Your email sent successfully"
+msgstr ""
+
+#: language-bk180910.php:356
+#: language-bk210910.php:357
+#: language-bk270910.php:357
+#: language.php:360
+#@ default
+msgid "Processing for Authorize.net, Please wait ...."
+msgstr ""
+
+#: language-bk180910.php:357
+#: language-bk210910.php:358
+#: language-bk270910.php:358
+#: language.php:361
+#@ default
+msgid "Processing for 2CO, Please wait ...."
+msgstr ""
+
+#: language-bk180910.php:358
+#: language-bk210910.php:359
+#: language-bk270910.php:359
+#: language.php:362
+#@ default
+msgid "Processing for Google Checkout, Please wait ...."
+msgstr ""
+
+#: language-bk180910.php:359
+#: language-bk210910.php:360
+#: language-bk270910.php:360
+#: language.php:363
+#@ default
+msgid "Processing for Paypal, Please wait ...."
+msgstr ""
+
+#: language-bk180910.php:360
+#: language-bk210910.php:361
+#: language-bk270910.php:361
+#: language.php:364
+#@ default
+msgid "Processing for Worldpay, Please wait ...."
+msgstr ""
+
+#: language-bk180910.php:363
+#: language-bk210910.php:364
+#: language-bk270910.php:364
+#: language.php:367
+#@ default
+msgid "[SUBJECT-STR]Property Inquiry[SUBJECT-END]<p>Dear [#$to_name#],</p><p>Here is an Inquiry for you related to <b>[#$post_title#]</b></p><p><b>Message : </b></p><p>[#$frnd_comments#]</p><p>Thank you, [#$your_name#]</p>"
+msgstr ""
+
+#: language-bk180910.php:364
+#: language-bk210910.php:365
+#: language-bk270910.php:365
+#: language.php:368
+#@ default
+msgid "[SUBJECT-STR]Email the post [SUBJECT-END]<p>Dear [#$to_name#],</p><p>your friend send message for <b>[#$post_title#]</b> </p><p><b>Subject : [#$frnd_subject#]</b></p><p>[#$frnd_comments#]</p><p>Thank you, [#$your_name#]</p>"
+msgstr ""
+
+#: language-bk180910.php:365
+#: language-bk210910.php:366
+#: language-bk270910.php:366
+#: language.php:369
+#@ default
+msgid "[SUBJECT-STR]Registration Email[SUBJECT-END]<p>Dear [#$user_name#],</p><p>You can log in  with the following information:</p><p>Username: [#$user_login#]</p><p>Password: [#$user_password#]</p><br><p>We hope you enjoy. Thanks!</p><p>[#$store_name#]</p>"
+msgstr ""
+
+#: library/functions/admin_dashboard.php:26
+#@ default
+msgid "Property Title"
+msgstr ""
+
+#: library/functions/admin_dashboard.php:28
+#@ default
+msgid "Display as"
+msgstr ""
+
+#: library/functions/admin_dashboard.php:29
+#@ default
+msgid "Date"
+msgstr ""
+
+#: library/functions/admin_dashboard.php:30
+#@ default
+msgid "Status"
+msgstr ""
+
+#: library/functions/admin_dashboard.php:57
+#@ default
+msgid "No Property Available."
+msgstr ""
+
+#: library/functions/admin_settings.php:69
+#@ default
+msgid "Theme Options"
+msgstr ""
+
+#: library/functions/admin_settings.php:70
+#@ default
+msgid "Show/Hide All Options"
+msgstr ""
+
+#: library/functions/admin_settings.php:157
+#@ default
+msgid "label"
+msgstr ""
+
+#: library/functions/admin_settings.php:193
+#: library/functions/admin_settings.php:208
+#: library/functions/admin_settings.php:284
+#@ default
+msgid "name"
+msgstr ""
+
+#: library/functions/admin_settings.php:262
+#@ default
+msgid "Save changes"
+msgstr ""
+
+#: library/functions/admin_settings.php:268
+#@ default
+msgid "Reset"
+msgstr ""
+
+#: library/functions/admin_settings.php:288
+#@ default
+msgid "desc"
+msgstr ""
+
+#: library/functions/comments_functions.php:61
+#@ default
+msgid "reply"
+msgstr ""
+
+#: library/functions/custom_functions-bk170610.php:287
+#: library/functions/custom_functions-bk200910.php:295
+#: library/functions/custom_functions-bk210910-1.php:295
+#: library/functions/custom_functions-bk210910.php:295
+#: library/functions/custom_functions-bk240910.php:295
+#: library/functions/custom_functions.php:295
+#: library/functions/custom_functions_only_agents_listing_changes.php:287
+#: library/includes/custom_functions.php:295
+#@ default
+msgid "&laquo; First"
+msgstr ""
+
+#: library/functions/custom_functions-bk170610.php:301
+#: library/functions/custom_functions-bk200910.php:309
+#: library/functions/custom_functions-bk210910-1.php:309
+#: library/functions/custom_functions-bk210910.php:309
+#: library/functions/custom_functions-bk240910.php:309
+#: library/functions/custom_functions.php:309
+#: library/functions/custom_functions_only_agents_listing_changes.php:301
+#: library/includes/custom_functions.php:309
+#@ default
+msgid "Last &raquo;"
+msgstr ""
+
+#: library/functions/custom_functions-bk170610.php:1066
+#: library/functions/custom_functions-bk200910.php:947
+#: library/functions/custom_functions-bk210910-1.php:947
+#: library/functions/custom_functions-bk210910.php:947
+#: library/functions/custom_functions-bk240910.php:949
+#: library/functions/custom_functions.php:949
+#: library/functions/custom_functions_only_agents_listing_changes.php:1066
+#: library/includes/custom_functions.php:947
+#@ default
+msgid "Favorited "
+msgstr ""
+
+#: library/functions/custom_functions-bk170610.php:1066
+#: library/functions/custom_functions-bk200910.php:947
+#: library/functions/custom_functions-bk210910-1.php:947
+#: library/functions/custom_functions-bk210910.php:947
+#: library/functions/custom_functions-bk240910.php:949
+#: library/functions/custom_functions.php:949
+#: library/functions/custom_functions_only_agents_listing_changes.php:1066
+#: library/includes/custom_functions.php:947
+#@ default
+msgid " <b>(remove)</b>"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:67
+#: library/functions/widgets_functions-bk240910-1.php:84
+#: library/functions/widgets_functions-bk240910-1.php:108
+#: library/functions/widgets_functions-bk240910.php:67
+#: library/functions/widgets_functions-bk240910.php:84
+#: library/functions/widgets_functions-bk240910.php:108
+#: library/functions/widgets_functions-bk270910.php:67
+#: library/functions/widgets_functions-bk270910.php:84
+#: library/functions/widgets_functions-bk270910.php:108
+#: library/functions/widgets_functions.php:67
+#: library/functions/widgets_functions.php:84
+#: library/functions/widgets_functions.php:108
+#@ default
+msgid "Read More"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:152
+#: library/functions/widgets_functions-bk240910.php:152
+#: library/functions/widgets_functions-bk270910.php:152
+#: library/functions/widgets_functions.php:152
+#@ default
+msgid "Title 1"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:153
+#: library/functions/widgets_functions-bk240910.php:153
+#: library/functions/widgets_functions-bk270910.php:153
+#: library/functions/widgets_functions.php:153
+#@ default
+msgid "Description 1"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:154
+#: library/functions/widgets_functions-bk240910.php:154
+#: library/functions/widgets_functions-bk270910.php:154
+#: library/functions/widgets_functions.php:154
+#@ default
+msgid "Read More Link 1 URL ex.(http://templatic.com)"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:156
+#: library/functions/widgets_functions-bk240910.php:156
+#: library/functions/widgets_functions-bk270910.php:156
+#: library/functions/widgets_functions.php:156
+#@ default
+msgid "Title 2 "
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:157
+#: library/functions/widgets_functions-bk240910.php:157
+#: library/functions/widgets_functions-bk270910.php:157
+#: library/functions/widgets_functions.php:157
+#@ default
+msgid "Description 2"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:158
+#: library/functions/widgets_functions-bk240910.php:158
+#: library/functions/widgets_functions-bk270910.php:158
+#: library/functions/widgets_functions.php:158
+#@ default
+msgid "Read More Link 2 URL ex.(http://templatic.com)"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:161
+#: library/functions/widgets_functions-bk240910.php:161
+#: library/functions/widgets_functions-bk270910.php:161
+#: library/functions/widgets_functions.php:161
+#@ default
+msgid "Title 3"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:162
+#: library/functions/widgets_functions-bk240910.php:162
+#: library/functions/widgets_functions-bk270910.php:162
+#: library/functions/widgets_functions.php:162
+#@ default
+msgid "Call Now #"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:163
+#: library/functions/widgets_functions-bk240910.php:163
+#: library/functions/widgets_functions-bk270910.php:163
+#: library/functions/widgets_functions.php:163
+#@ default
+msgid "Time"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:164
+#: library/functions/widgets_functions-bk240910.php:164
+#: library/functions/widgets_functions-bk270910.php:164
+#: library/functions/widgets_functions.php:164
+#@ default
+msgid "Read More Link 3 URL ex.(http://templatic.com)"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:177
+#: library/functions/widgets_functions-bk240910.php:175
+#: library/functions/widgets_functions-bk270910.php:177
+#: library/functions/widgets_functions.php:177
+#@ default
+msgid "Finance Calculator Widget"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:217
+#: library/functions/widgets_functions-bk240910.php:215
+#: library/functions/widgets_functions-bk270910.php:217
+#: library/functions/widgets_functions.php:217
+#@ default
+msgid "Loan Amount"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:220
+#: library/functions/widgets_functions-bk240910.php:218
+#: library/functions/widgets_functions-bk270910.php:220
+#: library/functions/widgets_functions.php:220
+#@ default
+msgid "Months"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:224
+#: library/functions/widgets_functions-bk240910.php:222
+#: library/functions/widgets_functions-bk270910.php:224
+#: library/functions/widgets_functions.php:224
+#@ default
+msgid "Interest Rate"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:229
+#: library/functions/widgets_functions-bk240910.php:227
+#: library/functions/widgets_functions-bk270910.php:229
+#: library/functions/widgets_functions.php:229
+#@ default
+msgid "Calculate"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:303
+#: library/functions/widgets_functions-bk240910-1.php:352
+#: library/functions/widgets_functions-bk240910-1.php:424
+#: library/functions/widgets_functions-bk240910-1.php:817
+#: library/functions/widgets_functions-bk240910.php:299
+#: library/functions/widgets_functions-bk240910.php:346
+#: library/functions/widgets_functions-bk240910.php:418
+#: library/functions/widgets_functions-bk240910.php:814
+#: library/functions/widgets_functions-bk270910.php:303
+#: library/functions/widgets_functions-bk270910.php:352
+#: library/functions/widgets_functions-bk270910.php:424
+#: library/functions/widgets_functions-bk270910.php:824
+#: library/functions/widgets_functions.php:303
+#: library/functions/widgets_functions.php:352
+#: library/functions/widgets_functions.php:424
+#: library/functions/widgets_functions.php:824
+#@ default
+msgid "Widget Title"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:458
+#: library/functions/widgets_functions-bk240910.php:450
+#: library/functions/widgets_functions-bk270910.php:458
+#: library/functions/widgets_functions.php:458
+#@ default
+msgid "Your Email Address"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:460
+#: library/functions/widgets_functions-bk240910.php:452
+#: library/functions/widgets_functions-bk270910.php:460
+#: library/functions/widgets_functions.php:460
+#@ default
+msgid "Subscribe"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:595
+#: library/functions/widgets_functions-bk240910-1.php:699
+#: library/functions/widgets_functions-bk240910-1.php:936
+#: library/functions/widgets_functions-bk240910.php:584
+#: library/functions/widgets_functions-bk240910.php:690
+#: library/functions/widgets_functions-bk240910.php:929
+#: library/functions/widgets_functions-bk270910.php:595
+#: library/functions/widgets_functions-bk270910.php:706
+#: library/functions/widgets_functions-bk270910.php:943
+#: library/functions/widgets_functions.php:595
+#: library/functions/widgets_functions.php:706
+#: library/functions/widgets_functions.php:943
+#@ default
+msgid "Title"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:600
+#: library/functions/widgets_functions-bk240910.php:589
+#: library/functions/widgets_functions-bk270910.php:600
+#: library/functions/widgets_functions.php:600
+#@ default
+msgid "Categories (<code>IDs</code> separated by commas)"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:605
+#: library/functions/widgets_functions-bk240910-1.php:705
+#: library/functions/widgets_functions-bk240910.php:594
+#: library/functions/widgets_functions-bk240910.php:696
+#: library/functions/widgets_functions-bk270910.php:605
+#: library/functions/widgets_functions-bk270910.php:712
+#: library/functions/widgets_functions.php:605
+#: library/functions/widgets_functions.php:712
+#@ default
+msgid "Number of posts"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:818
+#: library/functions/widgets_functions-bk240910-1.php:820
+#: library/functions/widgets_functions-bk240910-1.php:822
+#: library/functions/widgets_functions-bk240910-1.php:824
+#: library/functions/widgets_functions-bk240910-1.php:826
+#: library/functions/widgets_functions-bk240910.php:815
+#: library/functions/widgets_functions-bk240910.php:817
+#: library/functions/widgets_functions-bk240910.php:819
+#: library/functions/widgets_functions-bk240910.php:821
+#: library/functions/widgets_functions-bk240910.php:823
+#: library/functions/widgets_functions-bk270910.php:825
+#: library/functions/widgets_functions-bk270910.php:827
+#: library/functions/widgets_functions-bk270910.php:829
+#: library/functions/widgets_functions-bk270910.php:831
+#: library/functions/widgets_functions-bk270910.php:833
+#: library/functions/widgets_functions.php:825
+#: library/functions/widgets_functions.php:827
+#: library/functions/widgets_functions.php:829
+#: library/functions/widgets_functions.php:831
+#: library/functions/widgets_functions.php:833
+#@ default
+msgid "Testimonials"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:819
+#: library/functions/widgets_functions-bk240910-1.php:821
+#: library/functions/widgets_functions-bk240910-1.php:823
+#: library/functions/widgets_functions-bk240910-1.php:825
+#: library/functions/widgets_functions-bk240910-1.php:827
+#: library/functions/widgets_functions-bk240910.php:816
+#: library/functions/widgets_functions-bk240910.php:818
+#: library/functions/widgets_functions-bk240910.php:820
+#: library/functions/widgets_functions-bk240910.php:822
+#: library/functions/widgets_functions-bk240910.php:824
+#: library/functions/widgets_functions-bk270910.php:826
+#: library/functions/widgets_functions-bk270910.php:828
+#: library/functions/widgets_functions-bk270910.php:830
+#: library/functions/widgets_functions-bk270910.php:832
+#: library/functions/widgets_functions-bk270910.php:834
+#: library/functions/widgets_functions.php:826
+#: library/functions/widgets_functions.php:828
+#: library/functions/widgets_functions.php:830
+#: library/functions/widgets_functions.php:832
+#: library/functions/widgets_functions.php:834
+#@ default
+msgid "Author Name"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:877
+#: library/functions/widgets_functions-bk240910.php:872
+#: library/functions/widgets_functions-bk270910.php:884
+#: library/functions/widgets_functions.php:884
+#@ default
+msgid "Advt 1 Image Path (ex.http://pt.com/images/banner.jpg)"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:882
+#: library/functions/widgets_functions-bk240910.php:877
+#: library/functions/widgets_functions-bk270910.php:889
+#: library/functions/widgets_functions.php:889
+#@ default
+msgid "Advt 1 link"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:1101
+#: library/functions/widgets_functions-bk240910.php:1083
+#: library/functions/widgets_functions-bk270910.php:1108
+#: library/functions/widgets_functions.php:1108
+#@ default
+msgid "Twitter Account ID:"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:1105
+#: library/functions/widgets_functions-bk240910.php:1087
+#: library/functions/widgets_functions-bk270910.php:1112
+#: library/functions/widgets_functions.php:1112
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: library/functions/widgets_functions-bk240910-1.php:1109
+#: library/functions/widgets_functions-bk240910.php:1091
+#: library/functions/widgets_functions-bk270910.php:1116
+#: library/functions/widgets_functions.php:1116
+#@ default
+msgid "Show Twitter Posts:"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:22
+#: library/functions/yoast-breadcrumbs1.php:22
+#@ default
+msgid "Blog"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:29
+#: library/functions/yoast-breadcrumbs1.php:29
+#@ default
+msgid "Archives for"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:30
+#: library/functions/yoast-breadcrumbs1.php:30
+#@ default
+msgid "Search for"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:61
+#: library/functions/yoast-breadcrumbs1.php:61
+#: library/includes/admin_paymet_settings.php:73
+#: library/includes/admin_paymethods.php:264
+#: library/includes/admin_paymethods.php:298
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:69
+#: library/functions/yoast-breadcrumbs1.php:69
+#@ default
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:185
+#: library/functions/yoast-breadcrumbs.php:189
+#: library/functions/yoast-breadcrumbs.php:271
+#: library/functions/yoast-breadcrumbs1.php:185
+#: library/functions/yoast-breadcrumbs1.php:189
+#: library/functions/yoast-breadcrumbs1.php:271
+#@ default
+msgid "home"
+msgstr ""
+
+#: library/functions/yoast-breadcrumbs.php:186
+#: library/functions/yoast-breadcrumbs1.php:186
+#@ default
+msgid "blog"
+msgstr ""
+
+#: library/functions/yoast-posts.php:23
+#@ default
+msgid "Yoast - Tweaking Websites"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:122
+#@ default
+msgid "Bulk Upload"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:126
+#@ default
+msgid "Uploaded successully."
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:131
+#@ default
+msgid "Select CSV file"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:143
+#@ default
+msgid "You can download"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:143
+#@ default
+msgid "sample CSV file"
+msgstr ""
+
+#: library/includes/admin_bulk_upload.php:153
+#@ default
+msgid "Please select csv file to upload"
+msgstr ""
+
+#: library/includes/admin_coupon.php:94
+#@ default
+msgid "Edit Coupon"
+msgstr ""
+
+#: library/includes/admin_coupon.php:97
+#: library/includes/admin_manage_coupon.php:68
+#@ default
+msgid "Add Coupon"
+msgstr ""
+
+#: library/includes/admin_coupon.php:103
+#@ default
+msgid "Coupon code already exists, Please user different one."
+msgstr ""
+
+#: library/includes/admin_coupon.php:113
+#: library/includes/admin_manage_coupon.php:73
+#@ default
+msgid "Discount Type"
+msgstr ""
+
+#: library/includes/admin_coupon.php:116
+#@ default
+msgid "Percentage"
+msgstr ""
+
+#: library/includes/admin_coupon.php:124
+#@ default
+msgid "Amount"
+msgstr ""
+
+#: library/includes/admin_coupon.php:146
+#@ default
+msgid "Percentage should be less than or equal to 100"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:42
+#@ default
+msgid "Manage Coupons"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:51
+#@ default
+msgid "Allow coupon option on submit property page"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:52
+#: library/includes/admin_paymethods.php:287
+#: library/includes/admin_settings.php:184
+#: library/includes/admin_settings.php:188
+#: library/includes/admin_settings.php:192
+#: library/includes/admin_settings.php:206
+#: library/includes/admin_settings.php:214
+#@ default
+msgid "Yes"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:53
+#: library/includes/admin_paymethods.php:287
+#: library/includes/admin_settings.php:184
+#: library/includes/admin_settings.php:188
+#: library/includes/admin_settings.php:192
+#: library/includes/admin_settings.php:206
+#: library/includes/admin_settings.php:214
+#@ default
+msgid "No"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:60
+#@ default
+msgid "Coupon updated successfully."
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:65
+#@ default
+msgid "Coupon deleted successfully."
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:74
+#@ default
+msgid "Discount Amount"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:75
+#@ default
+msgid "Coupon Properties"
+msgstr ""
+
+#: library/includes/admin_manage_coupon.php:95
+#@ default
+msgid "View List"
+msgstr ""
+
+#: library/includes/admin_notification.php:20
+#@ default
+msgid "Manage Notifications"
+msgstr ""
+
+#: library/includes/admin_notification.php:21
+#@ default
+msgid "Different emails and messages are displayed on the site or, being sent to your user at different times such as, when they post a classified etc. You may customize the default messages, email messages as per your wish from here. "
+msgstr ""
+
+#: library/includes/admin_notification.php:24
+#@ default
+msgid "updated successfully."
+msgstr ""
+
+#: library/includes/admin_notification.php:118
+#: library/includes/admin_notification.php:148
+#: library/includes/admin_notification_edit.php:154
+#@ default
+msgid "File Name"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:82
+#@ default
+msgid "Manage Notification"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:162
+#@ default
+msgid "File Path"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:178
+#@ default
+msgid "Subject Name"
+msgstr ""
+
+#: library/includes/admin_notification_edit.php:204
+#@ default
+msgid "Back"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:76
+#@ default
+msgid "Updated Succesfully"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:82
+#@ default
+msgid "Payment Method"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:86
+#: library/includes/admin_paymethods.php:261
+#@ default
+msgid "Is Active"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:88
+#: library/includes/admin_paymethods.php:294
+#@ default
+msgid "Activate"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:89
+#: library/includes/admin_paymethods.php:291
+#@ default
+msgid "Deactivate"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:94
+#@ default
+msgid "Display Order"
+msgstr ""
+
+#: library/includes/admin_paymet_settings.php:128
+#@ default
+msgid "Please enter Payment Method"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:251
+#@ default
+msgid "Manage Payment Options"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:260
+#@ default
+msgid "Method Name"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:262
+#@ default
+msgid "Sort Order"
+msgstr ""
+
+#: library/includes/admin_paymethods.php:263
+#@ default
+msgid "Action"
+msgstr ""
+
+#: library/includes/admin_settings.php:158
+#@ default
+msgid "General Settings"
+msgstr ""
+
+#: library/includes/admin_settings.php:167
+#@ default
+msgid "Sender (Name that will be shown as email sender when users receive emails from this site)"
+msgstr ""
+
+#: library/includes/admin_settings.php:171
+#@ default
+msgid "Email Address (emails to users will be sent via this mail ID)"
+msgstr ""
+
+#: library/includes/admin_settings.php:175
+#@ default
+msgid "Default Currency (Ex.: USD)"
+msgstr ""
+
+#: library/includes/admin_settings.php:179
+#@ default
+msgid "Default Currency Symbol (Ex.: $)"
+msgstr ""
+
+#: library/includes/admin_settings.php:183
+#@ default
+msgid "Allow users to submit property on your site?"
+msgstr ""
+
+#: library/includes/admin_settings.php:187
+#@ default
+msgid "Allow new users registration?"
+msgstr ""
+
+#: library/includes/admin_settings.php:191
+#@ default
+msgid "Allow SSL URL while Property Submit"
+msgstr ""
+
+#: library/includes/admin_settings.php:194
+#@ default
+msgid "Listing price, duration and other settings</h2></td><p>On <b>\"submit property\"</b> page on your site, uses can choose one of the following two options and pay accordingly. You may customize the titles, number of days the listing will be shown on your site before it auto expires and, price for the listing. Set it here."
+msgstr ""
+
+#: library/includes/admin_settings.php:196
+#@ default
+msgid "Property  List Types"
+msgstr ""
+
+#: library/includes/admin_settings.php:197
+#@ default
+msgid "Title = Free/regular/Featured,"
+msgstr ""
+
+#: library/includes/admin_settings.php:201
+#@ default
+msgid "Title1"
+msgstr ""
+
+#: library/includes/admin_settings.php:201
+#: library/includes/admin_settings.php:209
+#@ default
+msgid ""
+"in  \n"
+"\t\tPrice"
+msgstr ""
+
+#: library/includes/admin_settings.php:203
+#: library/includes/admin_settings.php:211
+#@ default
+msgid "for"
+msgstr ""
+
+#: library/includes/admin_settings.php:203
+#: library/includes/admin_settings.php:211
+#@ default
+msgid "number of"
+msgstr ""
+
+#: library/includes/admin_settings.php:209
+#@ default
+msgid "Title2"
+msgstr ""
+
+#: library/includes/admin_settings.php:218
+#@ default
+msgid "Show Area Unit (Ex.: Sq. Ft.)"
+msgstr ""
+
+#: library/includes/admin_settings.php:222
+#@ default
+msgid "Maximum Number of Bedrooms (when a user posts a property or search proerty the \"Bedrooms\" dropdown box will be generated with this maximum number)"
+msgstr ""
+
+#: library/includes/admin_settings.php:226
+#@ default
+msgid "Maximum Number of Bathrooms (when a user posts a property or search proerty the \"Bathrooms\" dropdown box will be generated with this maximum number)"
+msgstr ""
+
+#: library/includes/admin_settings.php:230
+#@ default
+msgid "Property Default  Status (when a user posts a property, should it be auto published on your site?)"
+msgstr ""
+
+#: library/includes/admin_settings.php:232
+#@ default
+msgid "Publish"
+msgstr ""
+
+#: library/includes/admin_settings.php:233
+#@ default
+msgid "Draft"
+msgstr ""
+
+#: library/includes/admin_settings.php:238
+#@ default
+msgid "<b>Show Similar Property based on</b>(in property details page, other similar properties are also shown. You can choose similar property criteria here - based on which, the similar properties will be shown)"
+msgstr ""
+
+#: library/includes/admin_settings.php:243
+#@ default
+msgid "Beds"
+msgstr ""
+
+#: library/includes/admin_settings.php:244
+#@ default
+msgid "Property Type"
+msgstr ""
+
+#: library/includes/admin_settings.php:250
+#@ default
+msgid "<h2>Property Search Settings</h2><p>In the main search form, we show &quot;Area&quot; and &quot;Price Range&quot;. You may customize the range values from here. Note: Enter values separated by comma (,) and leave no blank space in-between </p>"
+msgstr ""
+
+#: library/includes/admin_settings.php:266
+#@ default
+msgid "Locations <br /><small>Ex. Locations \"AK,AR,CA,FL,HW,MN,SC,TX,MN,NJ,NY,MA,NY,OTHER\"</small>"
+msgstr ""
+
+#: library/includes/image_uploader.php:50
+#@ default
+msgid "Select Images"
+msgstr ""
+
+#: library/includes/image_uploader.php:50
+#@ default
+msgid "2 MB Max"
+msgstr ""
+
+#: library/includes/image_uploader.php:134
+#@ default
+msgid "Save Order"
+msgstr ""
+
+#: library/includes/image_uploader.php:142
+#@ default
+msgid "processing ..."
+msgstr ""
+
+#: library/includes/image_uploader.php:150
+#@ default
+msgid "Error loading agent favorite property."
+msgstr ""
+
+#: library/includes/image_uploader.php:178
+#@ default
+msgid "Error loading deletion of property image."
+msgstr ""
+
+#: library/includes/property_detail*bk240910.php:174
+#: library/includes/property_detail-bk-180910.php:152
+#: library/includes/property_detail-bk170910.php:149
+#: library/includes/property_detail-bk200910.php:152
+#: library/includes/property_detail-bk210910.php:174
+#: library/includes/property_detail.php:174
+#: library/includes/property_preview.php:196
+#@ default
+msgid "Property Description"
+msgstr ""
+
+#: library/includes/property_detail-bk170910.php:176
+#@ default
+msgid "#"
+msgstr ""
+
+#: library/includes/property_detail*bk240910.php:317
+#: library/includes/property_detail-bk-180910.php:286
+#: library/includes/property_detail-bk170910.php:288
+#: library/includes/property_detail-bk200910.php:294
+#: library/includes/property_detail-bk210910.php:316
+#: library/includes/property_detail.php:317
+#@ default
+msgid "Previous Property"
+msgstr ""
+
+#: library/includes/property_detail*bk240910.php:318
+#: library/includes/property_detail-bk-180910.php:287
+#: library/includes/property_detail-bk170910.php:289
+#: library/includes/property_detail-bk200910.php:295
+#: library/includes/property_detail-bk210910.php:317
+#: library/includes/property_detail.php:318
+#@ default
+msgid "Next Property"
+msgstr ""
+
+#: library/includes/property_preview.php:64
+#@ default
+msgid "Preview"
+msgstr ""
+
+#: library/includes/property_preview_buttons.php:29
+#: library/includes/property_preview_buttons.php:35
+#@ default
+msgid "alive days are"
+msgstr ""
+
+#: library/includes/property_preview_buttons.php:29
+#: library/includes/property_preview_buttons.php:32
+#@ default
+msgid "Property"
+msgstr ""
+
+#: library/includes/registration-bk170610.php:39
+#: library/includes/registration.php:39
+#@ default
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:44
+#: library/includes/registration.php:44
+#@ default
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:56
+#: library/includes/registration.php:56
+#@ default
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:73
+#: library/includes/registration.php:73
+#@ default
+msgid "Invalid key"
+msgstr ""
+
+#: library/includes/registration-bk170610.php:82
+#: library/includes/registration.php:82
+#, php-format
+#@ default
+msgid "Username: %s"
+msgstr ""
+
+#: library/includes/registration-bk170610.php:83
+#: library/includes/registration.php:83
+#, php-format
+#@ default
+msgid "Password: %s"
+msgstr ""
+
+#: library/includes/registration-bk170610.php:90
+#: library/includes/registration.php:90
+#, php-format
+#@ default
+msgid "[%s] Your new password"
+msgstr ""
+
+#: library/includes/registration-bk170610.php:113
+#: library/includes/registration.php:113
+#: library/includes/single_page_checkout_insertuser.php:24
+#@ default
+msgid "ERROR: Please enter a username."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:115
+#: library/includes/registration.php:115
+#: library/includes/single_page_checkout_insertuser.php:26
+#@ default
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:118
+#: library/includes/registration.php:118
+#@ default
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:122
+#: library/includes/registration.php:122
+#: library/includes/single_page_checkout_insertuser.php:33
+#@ default
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:124
+#: library/includes/registration.php:124
+#: library/includes/single_page_checkout_insertuser.php:35
+#@ default
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:127
+#: library/includes/registration.php:127
+#@ default
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:172
+#: library/includes/registration.php:172
+#: library/includes/single_page_checkout_insertuser.php:68
+#, php-format
+#@ default
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: library/includes/registration-bk170610.php:285
+#: library/includes/registration.php:285
+#@ default
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: library/includes/registration-bk170610.php:433
+#: library/includes/registration.php:433
+#@ default
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
+msgstr ""
+
+#: library/includes/send_inquiry_frm.php:45
+#@ default
+msgid "<br>From : "
+msgstr ""
+
+#: library/includes/send_inquiry_frm.php:45
+#@ default
+msgid "<br>Phone : "
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:6
+#@ default
+msgid "Email for Contact Details is Empty. Please enter Email, your all informations will sent to your Email."
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:29
+#@ default
+msgid "<strong>ERROR</strong>:  This username is already registered, please choose another one."
+msgstr ""
+
+#: library/includes/single_page_checkout_insertuser.php:38
+#@ default
+msgid "<strong>ERROR</strong>:  This email is already registered, please choose another one."
+msgstr ""
+
+#: language-bk210910.php:203
+#: language-bk270910.php:203
+#: language.php:206
+#@ default
+msgid "Plot (m2)"
+msgstr ""
+
+#: language-bk210910.php:204
+#: language-bk270910.php:129
+#: language-bk270910.php:204
+#: language.php:132
+#: language.php:207
+#@ default
+msgid "Pool"
+msgstr ""
+
+#: language-bk210910.php:264
+#: language-bk270910.php:264
+#: language.php:267
+#@ default
+msgid "Build"
+msgstr ""
+
+#: language-bk210910.php:265
+#: language-bk270910.php:265
+#: language.php:268
+#@ default
+msgid "Ref. No."
+msgstr ""
+
+#: language-bk210910.php:273
+#: language-bk270910.php:273
+#: language.php:276
+#@ default
+msgid "New Build"
+msgstr ""
+
+#: language-bk270910.php:32
+#: language.php:32
+#@ default
+msgid "Search by Reference"
+msgstr ""
+
+#: language-bk270910.php:33
+#: language.php:33
+#@ default
+msgid "Property Reference"
+msgstr ""
+
+#: language-bk270910.php:277
+#: language.php:280
+#: library/functions/custom_functions-bk240910.php:1369
+#: library/functions/custom_functions.php:1369
+#@ default
+msgid "Plot"
+msgstr ""
+
+#: language.php:4
+#@ default
+msgid "Home "
+msgstr ""
+
+#: language.php:8
+#@ default
+msgid "Private Area"
+msgstr ""
+
+#: language.php:17
+#@ default
+msgid "All "
+msgstr ""
+
+#: language.php:34
+#@ default
+msgid " Search "
+msgstr ""
+
+#: language.php:47
+#: language.php:215
+#@ default
+msgid "Type "
+msgstr ""
+
+#: language.php:73
+#@ default
+msgid "Phone "
+msgstr ""
+
+#: language.php:74
+#: language.php:76
+#@ default
+msgid "(+34) 96 574 49 18"
+msgstr ""
+
+#: language.php:75
+#@ default
+msgid "Fax "
+msgstr ""
+
+#: language.php:78
+#@ default
+msgid "Name "
+msgstr ""
+
+#: language.php:118
+#@ default
+msgid "Username "
+msgstr ""
+
+#: language.php:119
+#@ default
+msgid "Password "
+msgstr ""
+
+#: search-270910-1.php:160
+#: search-actual.php:168
+#: search-bk240910.php:184
+#: search-bk270910-1.php:164
+#: search-bk270910.php:157
+#: search.php:164
+#@ default
+msgid "New Builds"
+msgstr ""
+

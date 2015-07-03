@@ -1,0 +1,21 @@
+.menu ul, .menu ul li, .menu ul ul { list-style: none; margin: 0; padding: 0; }
+.menu ul { position: relative; z-index: 597; float: right; background: url(separador-menu.gif) no-repeat left; }
+.menu ul li { float: left; line-height: 40px; vertical-align: middle; zoom: 1; background:url(separador-menu.gif) no-repeat right }
+.menu ul li.hover, .menu ul li:hover { position: relative; z-index: 599; cursor: default; }
+.menu ul ul { visibility: hidden; position: absolute; top: 100%; left: 0; z-index: 598; width: 100%;}
+.menu ul ul li { float: none;}
+.menu ul ul ul { top: 0px; left: 99%; }
+.menu ul li:hover > ul { visibility: visible; }
+
+/* Default CSS Drop-Down Menu Theme*/
+.menu ul { font-weight: bold; font:14px; }
+.menu ul li a { padding: 7px 15px; display:block; }
+.menu ul li a:link, .menu ul li a:visited	{  text-decoration: none; }
+	
+/* -- level mark -- */
+.menu ul ul { width: 150px; margin-left: 3px; }
+.menu ul ul li ul li ul { margin-left:2px; }
+.menu ul ul li { font-weight: bold;  margin-top: -1px;  }
+
+.header .menu h3 { display:none; }
+.header .widget { background:none; }

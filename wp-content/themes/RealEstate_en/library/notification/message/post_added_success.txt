@@ -1,0 +1,3 @@
+<p>Thank you, your property request has been successfully received.</p>
+<p><a href="[#$submited_property_link#]" >View your submitted Property &raquo;</a></p>
+<p>Thank you for visit at [#$store_name#].</p>

@@ -1,0 +1,3 @@
+<h4>your payment received successfully and your property is published.</h4>
+<p><a href="[#$submited_property_link#]" >View your submitted Property &raquo;</a></p>
+<h5>Thank you for become our member at [#$store_name#].</h5>
